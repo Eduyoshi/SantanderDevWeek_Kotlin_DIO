@@ -10,6 +10,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.projetos.santanderdevweek.R
 import com.projetos.santanderdevweek.data.Conta
+import java.lang.RuntimeException
 
 class MainActivity : AppCompatActivity() {
 
